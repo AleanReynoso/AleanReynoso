@@ -23,6 +23,9 @@ Power BI • Matlab • Mathematica
 ### Physics-Informed Neural Networks for American Option Pricing
 Deep Learning approach for solving the Black-Scholes PDE and pricing American options on SPY.
 
+🔗 Repository:
+[https://github.com/AleanReynoso/American-Option-Pricing-PINN)
+](https://github.com/AleanReynoso/American-Option-Pricing-PINN)
 ### Topological Data Analysis for Gravitational Wave Detection
 Persistent homology applied to LIGO signals.
 
