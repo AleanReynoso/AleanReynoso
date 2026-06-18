@@ -34,3 +34,9 @@ Predictive model for identifying high-potential researchers.
 
 ### TLS Session Latency Analysis
 Experimental study of HTTPS session reuse and TLS overhead.
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/aleanreynoso/](https://www.linkedin.com/in/aleanreynoso/)
+
+Email: aleanreynoso@gmail.com
