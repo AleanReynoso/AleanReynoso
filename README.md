@@ -26,15 +26,13 @@ Deep Learning approach for solving the Black-Scholes PDE and pricing American op
 🔗 Repository:
 [https://github.com/AleanReynoso/American-Option-Pricing-PINN)
 ](https://github.com/AleanReynoso/American-Option-Pricing-PINN)
-### Topological Data Analysis for Gravitational Wave Detection
-Persistent homology applied to LIGO signals.
-
-### Machine Learning Researcher Identification
-Predictive model for identifying high-potential researchers.
+.
 
 ### TLS Session Latency Analysis
 Experimental study of HTTPS session reuse and TLS overhead.
-
+🔗 Repository:
+[https://github.com/VictorinoStylo/Proyecto-6
+](https://github.com/VictorinoStylo/Proyecto-6)
 ## Contact
 
 LinkedIn: [https://www.linkedin.com/in/aleanreynoso/](https://www.linkedin.com/in/aleanreynoso/)
